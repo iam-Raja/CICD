@@ -6,3 +6,7 @@
 * Pipeline Utility Steps
 
 **Configure aws on matser with non-root**
+* After downloading plugins and aws configure restart jenkins
+```
+sudo systemctl restart jenkins
+```
