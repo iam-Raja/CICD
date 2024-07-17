@@ -12,3 +12,8 @@
 ```
 sudo systemctl restart jenkins
 ```
+
+**Node-To-Kube-Authenicate**
+```
+aws eks update-kubeconfig --region <region-name> --name <Cluster-name>
+```
